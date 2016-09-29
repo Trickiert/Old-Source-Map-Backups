@@ -1,0 +1,617 @@
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2279 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (25 bytes to 25)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+42 faces
+37331 square feet [5375776.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42 patches before subdivision
+3286 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 355107, max 235
+transfer lists:   2.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0015 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  40/65536         800/1310720  ( 0.1%) 
+vertexes                65/65536         780/786432   ( 0.1%) 
+nodes                   27/65536         864/2097152  ( 0.0%) 
+texinfos                 3/12288         216/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   42/65536        2352/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists          42/0             168/0        ( 0.0%) 
+leaves                  29/65536         928/2097152  ( 0.0%) 
+leaffaces               42/65536          84/131072   ( 0.1%) 
+leafbrushes             16/65536          32/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              200/512000        800/2048000  ( 0.0%) 
+edges                  113/256000        452/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      387176/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]         358/393216   ( 0.1%) 
+LDR ambient table       29/65536         116/262144   ( 0.0%) 
+HDR ambient table       29/65536         116/262144   ( 0.0%) 
+LDR leaf ambient         4/65536         112/1835008  ( 0.0%) 
+HDR leaf ambient        29/65536         812/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]        2279/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 92
+Writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7190 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 21
+Reduced 7 texdatas to 6 (170 bytes to 142)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.prt
+  29 portalclusters
+  71 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 819
+Average clusters visible: 28
+Building PAS...
+Average clusters audible: 29
+visdatasize:468  compressed from 464
+writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+88 faces
+14006 square feet [2016951.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+88 patches before subdivision
+1750 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 188647, max 303
+transfer lists:   1.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 18/8192          216/98304    ( 0.2%) 
+brushsides             133/65536        1064/524288   ( 0.2%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes               161/65536        1932/786432   ( 0.2%) 
+nodes                   94/65536        3008/2097152  ( 0.1%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   88/65536        4928/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+facebrushes              7/0              14/0        ( 0.0%) 
+facebrushlists          88/0             352/0        ( 0.0%) 
+leaves                  98/65536        3136/2097152  ( 0.1%) 
+leaffaces              110/65536         220/131072   ( 0.2%) 
+leafbrushes             63/65536         126/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              565/512000       2260/2048000  ( 0.1%) 
+edges                  321/256000       1284/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            81/65536         162/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      158552/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         468/16777216 ( 0.0%) 
+entdata               [variable]        3157/393216   ( 0.8%) 
+LDR ambient table       98/65536         392/262144   ( 0.1%) 
+HDR ambient table       98/65536         392/262144   ( 0.1%) 
+LDR leaf ambient        41/65536        1148/1835008  ( 0.1%) 
+HDR leaf ambient        98/65536        2744/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]        7190/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 225
+Writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14483 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 98 texinfos to 46
+Reduced 7 texdatas to 7 (170 bytes to 170)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.prt
+  72 portalclusters
+ 215 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4450
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 72
+visdatasize:1877  compressed from 2304
+writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+196 faces
+14613 square feet [2104383.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+196 patches before subdivision
+2114 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 222822, max 280
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 36/8192          432/98304    ( 0.4%) 
+brushsides             398/65536        3184/524288   ( 0.6%) 
+planes                 640/65536       12800/1310720  ( 1.0%) 
+vertexes               373/65536        4476/786432   ( 0.6%) 
+nodes                  215/65536        6880/2097152  ( 0.3%) 
+texinfos                46/12288        3312/884736   ( 0.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  196/65536       10976/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               91/65536        5096/3670016  ( 0.1%) 
+facebrushes             15/0              30/0        ( 0.0%) 
+facebrushlists         196/0             784/0        ( 0.0%) 
+leaves                 222/65536        7104/2097152  ( 0.3%) 
+leaffaces              222/65536         444/131072   ( 0.3%) 
+leafbrushes            176/65536         352/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1283/512000       5132/2048000  ( 0.3%) 
+edges                  743/256000       2972/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           123/65536         246/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      175628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1877/16777216 ( 0.0%) 
+entdata               [variable]        7446/393216   ( 1.9%) 
+LDR ambient table      222/65536         888/262144   ( 0.3%) 
+HDR ambient table      222/65536         888/262144   ( 0.3%) 
+LDR leaf ambient       102/65536        2856/1835008  ( 0.2%) 
+HDR leaf ambient       222/65536        6216/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]       14483/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 527
+Writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17058 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 117 texinfos to 56
+Reduced 7 texdatas to 7 (170 bytes to 170)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.prt
+ 117 portalclusters
+ 354 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 12 visible clusters (0.00%)
+Total clusters visible: 10111
+Average clusters visible: 86
+Building PAS...
+Average clusters audible: 117
+visdatasize:4449  compressed from 3744
+writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+285 faces
+14977 square feet [2156787.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+2219 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 232983, max 295
+transfer lists:   1.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0007 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 42/8192          504/98304    ( 0.5%) 
+brushsides             536/65536        4288/524288   ( 0.8%) 
+planes                 934/65536       18680/1310720  ( 1.4%) 
+vertexes               514/65536        6168/786432   ( 0.8%) 
+nodes                  299/65536        9568/2097152  ( 0.5%) 
+texinfos                56/12288        4032/884736   ( 0.5%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              109/65536        6104/3670016  ( 0.2%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 307/65536        9824/2097152  ( 0.5%) 
+leaffaces              326/65536         652/131072   ( 0.5%) 
+leafbrushes            216/65536         432/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1772/512000       7088/2048000  ( 0.3%) 
+edges                 1034/256000       4136/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             22/32768         220/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           318/65536         636/131072   ( 0.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      192180/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4449/16777216 ( 0.0%) 
+entdata               [variable]        8892/393216   ( 2.3%) 
+LDR ambient table      307/65536        1228/262144   ( 0.5%) 
+HDR ambient table      307/65536        1228/262144   ( 0.5%) 
+LDR leaf ambient       153/65536        4284/1835008  ( 0.2%) 
+HDR leaf ambient       307/65536        8596/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]       17058/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 766
+Writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28526 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 193 texinfos to 92
+Reduced 7 texdatas to 7 (170 bytes to 170)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Game Related\Mapping\Portal 2\GeneralMessAroundMap\mp_smallspace.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+reading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.prt
+ 297 portalclusters
+1026 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 107 visible clusters (0.00%)
+Total clusters visible: 33136
+Average clusters visible: 111
+Building PAS...
+Average clusters audible: 155
+visdatasize:24842  compressed from 23760
+writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+723 faces
+156467 square feet [22531316.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+723 patches before subdivision
+16333 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2341393, max 392
+transfer lists:  17.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             985/65536        7880/524288   ( 1.5%) 
+planes                1688/65536       33760/1310720  ( 2.6%) 
+vertexes              1162/65536       13944/786432   ( 1.8%) 
+nodes                  619/65536       19808/2097152  ( 0.9%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  723/65536       40488/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              213/65536       11928/3670016  ( 0.3%) 
+facebrushes             17/0              34/0        ( 0.0%) 
+facebrushlists         723/0            2892/0        ( 0.0%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces              896/65536        1792/131072   ( 1.4%) 
+leafbrushes            359/65536         718/131072   ( 0.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4297/512000      17188/2048000  ( 0.8%) 
+edges                 2387/256000       9548/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             62/32768         620/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           993/65536        1986/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1669148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24842/16777216 ( 0.1%) 
+entdata               [variable]       14677/393216   ( 3.7%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient       357/65536        9996/1835008  ( 0.5%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74450/0        ( 0.0%) 
+physics               [variable]       28526/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1999
+Writing c:\users\owner\documents\dropbox\public\game related\mapping\portal 2\generalmessaroundmap\mp_smallspace.bsp
+2 seconds elapsed

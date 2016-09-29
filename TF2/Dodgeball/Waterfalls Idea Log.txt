@@ -1,0 +1,35 @@
+Desert Setting, palm trees, sandy textures ect.
+
+Body of water seperating both teams, water KILLS because It's DEATH WATER! (Gap will need to be fairly large to accomadate for people who like to rockert jump)
+
+Still need an idea for a prop or object to use for the rockert shooter, something tropical related, or a flying craft (maybe a blimp?)
+
+
+------------------------------Shit that needs doing----------------------------
+X = Not done
+
+Y= Done!
+
+Z= Other (Will be noted)
+-------------------------------------------------------------------------------
+
+1) Skybox Y
+
+2) Triggers, logic settings, Technical map stuff. Y 
+
+(With the kind help of Cannon's Template Map! http://mechatheslag.net/gaming/showthread.php?tid=1634)
+
+3) Spawn Posisions X
+
+4) Lighting X
+
+5) Map Layout X (Around 15% Done)
+
+6) Props X (Progress Started)
+
+7) Cubemaps X
+
+8) Other stuff (Optimization & General Map  Polishing) X
+
+
+TOTAL PROGRESS: 13%

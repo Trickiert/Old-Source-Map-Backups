@@ -1,0 +1,3694 @@
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+155 faces
+272501 square feet [39240184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  78/65536        1560/1310720  ( 0.1%) 
+vertexes               199/65536        2388/786432   ( 0.3%) 
+nodes                  153/65536        4896/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  155/65536        8680/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 155/65536        4960/2097152  ( 0.2%) 
+leaffaces              162/65536         324/131072   ( 0.2%) 
+leafbrushes             65/65536         130/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              838/512000       3352/2048000  ( 0.2%) 
+edges                  429/256000       1716/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              2/32768          20/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            24/65536          48/131072   ( 0.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       86676/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11869/393216   ( 3.0%) 
+LDR ambient table      155/65536         620/262144   ( 0.2%) 
+HDR ambient table      155/65536         620/262144   ( 0.2%) 
+LDR leaf ambient      1283/65536       35924/1835008  ( 2.0%) 
+HDR leaf ambient       155/65536        4340/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         397/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 360
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+215 faces
+294686 square feet [42434892.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes               282/65536        3384/786432   ( 0.4%) 
+nodes                  175/65536        5600/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  215/65536       12040/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 177/65536        5664/2097152  ( 0.3%) 
+leaffaces              219/65536         438/131072   ( 0.3%) 
+leafbrushes             73/65536         146/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  576/256000       2304/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             14/32768         140/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           177/65536         354/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11905/393216   ( 3.0%) 
+LDR ambient table      177/65536         708/262144   ( 0.3%) 
+HDR ambient table      177/65536         708/262144   ( 0.3%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       177/65536        4956/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         397/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 534
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+215 faces
+294686 square feet [42434892.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes               282/65536        3384/786432   ( 0.4%) 
+nodes                  175/65536        5600/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  215/65536       12040/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 177/65536        5664/2097152  ( 0.3%) 
+leaffaces              219/65536         438/131072   ( 0.3%) 
+leafbrushes             73/65536         146/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  576/256000       2304/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             14/32768         140/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           177/65536         354/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12053/393216   ( 3.1%) 
+LDR ambient table      177/65536         708/262144   ( 0.3%) 
+HDR ambient table      177/65536         708/262144   ( 0.3%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       177/65536        4956/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         397/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 534
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_trainyard_01uprt" not found.
+Can't load skybox file skybox/sky_trainyard_01up to build the default cubemap!
+Can't load skybox file skybox/sky_trainyard_01up to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+215 faces
+294686 square feet [42434892.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes               282/65536        3384/786432   ( 0.4%) 
+nodes                  175/65536        5600/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  215/65536       12040/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 177/65536        5664/2097152  ( 0.3%) 
+leaffaces              219/65536         438/131072   ( 0.3%) 
+leafbrushes             73/65536         146/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  576/256000       2304/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             14/32768         140/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           177/65536         354/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12061/393216   ( 3.1%) 
+LDR ambient table      177/65536         708/262144   ( 0.3%) 
+HDR ambient table      177/65536         708/262144   ( 0.3%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       177/65536        4956/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         397/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 534
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_trainyard_01uprt" not found.
+Can't load skybox file skybox/sky_trainyard_01up to build the default cubemap!
+Can't load skybox file skybox/sky_trainyard_01up to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+215 faces
+294686 square feet [42434892.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes               282/65536        3384/786432   ( 0.4%) 
+nodes                  175/65536        5600/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  215/65536       12040/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 177/65536        5664/2097152  ( 0.3%) 
+leaffaces              219/65536         438/131072   ( 0.3%) 
+leafbrushes             73/65536         146/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  576/256000       2304/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             14/32768         140/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           177/65536         354/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12061/393216   ( 3.1%) 
+LDR ambient table      177/65536         708/262144   ( 0.3%) 
+HDR ambient table      177/65536         708/262144   ( 0.3%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       177/65536        4956/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         397/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 534
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+215 faces
+294686 square feet [42434892.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes               282/65536        3384/786432   ( 0.4%) 
+nodes                  175/65536        5600/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  215/65536       12040/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               42/65536        2352/3670016  ( 0.1%) 
+leaves                 177/65536        5664/2097152  ( 0.3%) 
+leaffaces              219/65536         438/131072   ( 0.3%) 
+leafbrushes             73/65536         146/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  576/256000       2304/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             14/32768         140/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           177/65536         354/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12055/393216   ( 3.1%) 
+LDR ambient table      177/65536         708/262144   ( 0.3%) 
+HDR ambient table      177/65536         708/262144   ( 0.3%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       177/65536        4956/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211639/0        ( 0.0%) 
+physics               [variable]        3309/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 534
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-128.00 1516.86 795.07) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3341 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 5 texdatas to 4 (157 bytes to 136)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+238 faces
+315016 square feet [45362348.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  90/65536        1800/1310720  ( 0.1%) 
+vertexes               314/65536        3768/786432   ( 0.5%) 
+nodes                  184/65536        5888/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  238/65536       13328/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               46/65536        2576/3670016  ( 0.1%) 
+leaves                 186/65536        5952/2097152  ( 0.3%) 
+leaffaces              241/65536         482/131072   ( 0.4%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1258/512000       5032/2048000  ( 0.2%) 
+edges                  634/256000       2536/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      163160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12055/393216   ( 3.1%) 
+LDR ambient table      186/65536         744/262144   ( 0.3%) 
+HDR ambient table      186/65536         744/262144   ( 0.3%) 
+LDR leaf ambient      1461/65536       40908/1835008  ( 2.2%) 
+HDR leaf ambient       186/65536        5208/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211639/0        ( 0.0%) 
+physics               [variable]        3341/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 598
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-152.00 1669.73 745.89) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3341 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 8
+Reduced 4 texdatas to 4 (104 bytes to 104)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+228 faces
+314049 square feet [45223084.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  90/65536        1800/1310720  ( 0.1%) 
+vertexes               314/65536        3768/786432   ( 0.5%) 
+nodes                  184/65536        5888/2097152  ( 0.3%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  228/65536       12768/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               40/65536        2240/3670016  ( 0.1%) 
+leaves                 186/65536        5952/2097152  ( 0.3%) 
+leaffaces              231/65536         462/131072   ( 0.4%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1194/512000       4776/2048000  ( 0.2%) 
+edges                  602/256000       2408/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      159824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table      186/65536         744/262144   ( 0.3%) 
+HDR ambient table      186/65536         744/262144   ( 0.3%) 
+LDR leaf ambient      1460/65536       40880/1835008  ( 2.2%) 
+HDR leaf ambient       186/65536        5208/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        3341/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 578
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-152.00 1669.73 745.89) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3341 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 8
+Reduced 4 texdatas to 4 (104 bytes to 104)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+228 faces
+314049 square feet [45223084.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  90/65536        1800/1310720  ( 0.1%) 
+vertexes               314/65536        3768/786432   ( 0.5%) 
+nodes                  184/65536        5888/2097152  ( 0.3%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  228/65536       12768/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               40/65536        2240/3670016  ( 0.1%) 
+leaves                 186/65536        5952/2097152  ( 0.3%) 
+leaffaces              231/65536         462/131072   ( 0.4%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1194/512000       4776/2048000  ( 0.2%) 
+edges                  602/256000       2408/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      159824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table      186/65536         744/262144   ( 0.3%) 
+HDR ambient table      186/65536         744/262144   ( 0.3%) 
+LDR leaf ambient      1460/65536       40880/1835008  ( 2.2%) 
+HDR leaf ambient       186/65536        5208/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        3341/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 578
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+228 faces
+314049 square feet [45223084.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  90/65536        1800/1310720  ( 0.1%) 
+vertexes               314/65536        3768/786432   ( 0.5%) 
+nodes                  184/65536        5888/2097152  ( 0.3%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  228/65536       12768/3670016  ( 0.3%) 
+hdr faces              228/65536       12768/3670016  ( 0.3%) 
+origfaces               40/65536        2240/3670016  ( 0.1%) 
+leaves                 186/65536        5952/2097152  ( 0.3%) 
+leaffaces              231/65536         462/131072   ( 0.4%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1194/512000       4776/2048000  ( 0.2%) 
+edges                  602/256000       2408/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      159824/0        ( 0.0%) 
+HDR lightdata         [variable]      159824/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table      186/65536         744/262144   ( 0.3%) 
+HDR ambient table      186/65536         744/262144   ( 0.3%) 
+LDR leaf ambient      1460/65536       40880/1835008  ( 2.2%) 
+HDR leaf ambient      1460/65536       40880/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        3341/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 578
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (-152.00 1669.73 745.89) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3341 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 8
+Reduced 4 texdatas to 4 (104 bytes to 104)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+228 faces
+314049 square feet [45223084.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  90/65536        1800/1310720  ( 0.1%) 
+vertexes               314/65536        3768/786432   ( 0.5%) 
+nodes                  184/65536        5888/2097152  ( 0.3%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  228/65536       12768/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               40/65536        2240/3670016  ( 0.1%) 
+leaves                 186/65536        5952/2097152  ( 0.3%) 
+leaffaces              231/65536         462/131072   ( 0.4%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1194/512000       4776/2048000  ( 0.2%) 
+edges                  602/256000       2408/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      159824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table      186/65536         744/262144   ( 0.3%) 
+HDR ambient table      186/65536         744/262144   ( 0.3%) 
+LDR leaf ambient      1460/65536       40880/1835008  ( 2.2%) 
+HDR leaf ambient       186/65536        5208/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        3341/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 578
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (0.00 0.00 65.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2935 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9 texinfos to 7
+Reduced 3 texdatas to 3 (86 bytes to 86)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+228 faces
+314049 square feet [45223080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  7/8192           84/98304    ( 0.1%) 
+brushsides              42/65536         336/524288   ( 0.1%) 
+planes                  78/65536        1560/1310720  ( 0.1%) 
+vertexes               302/65536        3624/786432   ( 0.5%) 
+nodes                  174/65536        5568/2097152  ( 0.3%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  228/65536       12768/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               40/65536        2240/3670016  ( 0.1%) 
+leaves                 176/65536        5632/2097152  ( 0.3%) 
+leaffaces              231/65536         462/131072   ( 0.4%) 
+leafbrushes             74/65536         148/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1194/512000       4776/2048000  ( 0.2%) 
+edges                  602/256000       2408/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      159824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table      176/65536         704/262144   ( 0.3%) 
+HDR ambient table      176/65536         704/262144   ( 0.3%) 
+LDR leaf ambient      1333/65536       37324/1835008  ( 2.0%) 
+HDR leaf ambient       176/65536        4928/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        2935/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 578
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3327 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 5
+Reduced 3 texdatas to 3 (86 bytes to 86)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  36 portalclusters
+  68 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1176
+Average clusters visible: 32
+Building PAS...
+Average clusters audible: 36
+visdatasize:652  compressed from 576
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+150 faces
+276848 square feet [39866244.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+5502 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5543, max 178
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(55, 30, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0050 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              50/65536         400/524288   ( 0.1%) 
+planes                  96/65536        1920/1310720  ( 0.1%) 
+vertexes               232/65536        2784/786432   ( 0.4%) 
+nodes                   97/65536        3104/2097152  ( 0.1%) 
+texinfos                 5/12288         360/884736   ( 0.0%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               14/65536         784/3670016  ( 0.0%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              172/65536         344/131072   ( 0.3%) 
+leafbrushes             59/65536         118/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              744/512000       2976/2048000  ( 0.1%) 
+edges                  393/256000       1572/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             12/32768         120/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           144/65536         288/131072   ( 0.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      153816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         652/16777216 ( 0.0%) 
+entdata               [variable]       12060/393216   ( 3.1%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient       481/65536       13468/1835008  ( 0.7%) 
+HDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211296/0        ( 0.0%) 
+physics               [variable]        3327/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3327 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 5
+Reduced 3 texdatas to 3 (86 bytes to 86)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  36 portalclusters
+  68 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1176
+Average clusters visible: 32
+Building PAS...
+Average clusters audible: 36
+visdatasize:652  compressed from 576
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+150 faces
+270509 square feet [38953344.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+5502 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5555, max 173
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(55, 30, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0051 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              50/65536         400/524288   ( 0.1%) 
+planes                  96/65536        1920/1310720  ( 0.1%) 
+vertexes               232/65536        2784/786432   ( 0.4%) 
+nodes                   97/65536        3104/2097152  ( 0.1%) 
+texinfos                 5/12288         360/884736   ( 0.0%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               14/65536         784/3670016  ( 0.0%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              172/65536         344/131072   ( 0.3%) 
+leafbrushes             59/65536         118/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              744/512000       2976/2048000  ( 0.1%) 
+edges                  393/256000       1572/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             12/32768         120/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           144/65536         288/131072   ( 0.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      153816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         652/16777216 ( 0.0%) 
+entdata               [variable]       12080/393216   ( 3.1%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient       483/65536       13524/1835008  ( 0.7%) 
+HDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211304/0        ( 0.0%) 
+physics               [variable]        3327/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3327 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 5
+Reduced 3 texdatas to 3 (86 bytes to 86)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  36 portalclusters
+  68 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1176
+Average clusters visible: 32
+Building PAS...
+Average clusters audible: 36
+visdatasize:652  compressed from 576
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+150 faces
+270509 square feet [38953344.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+5502 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5555, max 173
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(55, 30, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0052 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              50/65536         400/524288   ( 0.1%) 
+planes                  96/65536        1920/1310720  ( 0.1%) 
+vertexes               232/65536        2784/786432   ( 0.4%) 
+nodes                   97/65536        3104/2097152  ( 0.1%) 
+texinfos                 5/12288         360/884736   ( 0.0%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               14/65536         784/3670016  ( 0.0%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              172/65536         344/131072   ( 0.3%) 
+leafbrushes             59/65536         118/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              744/512000       2976/2048000  ( 0.1%) 
+edges                  393/256000       1572/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             12/32768         120/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           144/65536         288/131072   ( 0.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      153816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         652/16777216 ( 0.0%) 
+entdata               [variable]       12080/393216   ( 3.1%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient       483/65536       13524/1835008  ( 0.7%) 
+HDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211304/0        ( 0.0%) 
+physics               [variable]        3327/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4111 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 3 texdatas to 3 (86 bytes to 86)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  42 portalclusters
+  77 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1346
+Average clusters visible: 32
+Building PAS...
+Average clusters audible: 41
+visdatasize:847  compressed from 672
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+212 faces
+244439 square feet [35199268.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+212 patches before subdivision
+7028 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44311, max 222
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4806, 2741, 3652)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(105, 31, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               336/65536        4032/786432   ( 0.5%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  212/65536       11872/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               20/65536        1120/3670016  ( 0.0%) 
+leaves                 123/65536        3936/2097152  ( 0.2%) 
+leaffaces              227/65536         454/131072   ( 0.3%) 
+leafbrushes             82/65536         164/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1068/512000       4272/2048000  ( 0.2%) 
+edges                  562/256000       2248/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             23/32768         230/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           300/65536         600/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         847/16777216 ( 0.0%) 
+entdata               [variable]       12083/393216   ( 3.1%) 
+LDR ambient table      123/65536         492/262144   ( 0.2%) 
+HDR ambient table      123/65536         492/262144   ( 0.2%) 
+LDR leaf ambient       545/65536       15260/1835008  ( 0.8%) 
+HDR leaf ambient       123/65536        3444/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211304/0        ( 0.0%) 
+physics               [variable]        4111/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 564
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+212 faces
+244439 square feet [35199268.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+212 patches before subdivision
+7028 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44311, max 222
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4806, 2741, 3652)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(105, 31, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               336/65536        4032/786432   ( 0.5%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  212/65536       11872/3670016  ( 0.3%) 
+hdr faces              212/65536       11872/3670016  ( 0.3%) 
+origfaces               20/65536        1120/3670016  ( 0.0%) 
+leaves                 123/65536        3936/2097152  ( 0.2%) 
+leaffaces              227/65536         454/131072   ( 0.3%) 
+leafbrushes             82/65536         164/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1068/512000       4272/2048000  ( 0.2%) 
+edges                  562/256000       2248/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             23/32768         230/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           300/65536         600/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202444/0        ( 0.0%) 
+HDR lightdata         [variable]      202444/0        ( 0.0%) 
+visdata               [variable]         847/16777216 ( 0.0%) 
+entdata               [variable]       12083/393216   ( 3.1%) 
+LDR ambient table      123/65536         492/262144   ( 0.2%) 
+HDR ambient table      123/65536         492/262144   ( 0.2%) 
+LDR leaf ambient       545/65536       15260/1835008  ( 0.8%) 
+HDR leaf ambient       545/65536       15260/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211304/0        ( 0.0%) 
+physics               [variable]        4111/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 564
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  44 portalclusters
+  88 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1468
+Average clusters visible: 33
+Building PAS...
+Average clusters audible: 43
+visdatasize:888  compressed from 704
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+220 faces
+244236 square feet [35170112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+220 patches before subdivision
+7290 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 39783, max 214
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7878, 4814, 4158)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(212, 74, 62)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0067 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               349/65536        4188/786432   ( 0.5%) 
+nodes                  126/65536        4032/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  220/65536       12320/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               20/65536        1120/3670016  ( 0.0%) 
+leaves                 128/65536        4096/2097152  ( 0.2%) 
+leaffaces              237/65536         474/131072   ( 0.4%) 
+leafbrushes             87/65536         174/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1114/512000       4456/2048000  ( 0.2%) 
+edges                  585/256000       2340/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             25/32768         250/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           324/65536         648/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202908/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         888/16777216 ( 0.0%) 
+entdata               [variable]       12083/393216   ( 3.1%) 
+LDR ambient table      128/65536         512/262144   ( 0.2%) 
+HDR ambient table      128/65536         512/262144   ( 0.2%) 
+LDR leaf ambient       523/65536       14644/1835008  ( 0.8%) 
+HDR leaf ambient       128/65536        3584/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 594
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+220 faces
+244236 square feet [35170112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+220 patches before subdivision
+7290 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 39783, max 214
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7878, 4814, 4158)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(212, 74, 62)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0050 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               349/65536        4188/786432   ( 0.5%) 
+nodes                  126/65536        4032/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  220/65536       12320/3670016  ( 0.3%) 
+hdr faces              220/65536       12320/3670016  ( 0.3%) 
+origfaces               20/65536        1120/3670016  ( 0.0%) 
+leaves                 128/65536        4096/2097152  ( 0.2%) 
+leaffaces              237/65536         474/131072   ( 0.4%) 
+leafbrushes             87/65536         174/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1114/512000       4456/2048000  ( 0.2%) 
+edges                  585/256000       2340/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             25/32768         250/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           324/65536         648/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202908/0        ( 0.0%) 
+HDR lightdata         [variable]      202908/0        ( 0.0%) 
+visdata               [variable]         888/16777216 ( 0.0%) 
+entdata               [variable]       12083/393216   ( 3.1%) 
+LDR ambient table      128/65536         512/262144   ( 0.2%) 
+HDR ambient table      128/65536         512/262144   ( 0.2%) 
+LDR leaf ambient       523/65536       14644/1835008  ( 0.8%) 
+HDR leaf ambient       523/65536       14644/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 594
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  38 portalclusters
+  77 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1148
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 37
+visdatasize:693  compressed from 608
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+192 faces
+216674 square feet [31201112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+192 patches before subdivision
+5136 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29574, max 154
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5573, 3687, 3028)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(129, 51, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0049 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               313/65536        3756/786432   ( 0.5%) 
+nodes                  119/65536        3808/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  192/65536       10752/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 121/65536        3872/2097152  ( 0.2%) 
+leaffaces              206/65536         412/131072   ( 0.3%) 
+leafbrushes             87/65536         174/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              986/512000       3944/2048000  ( 0.2%) 
+edges                  520/256000       2080/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             25/32768         250/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           324/65536         648/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      155472/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         693/16777216 ( 0.0%) 
+entdata               [variable]       12182/393216   ( 3.1%) 
+LDR ambient table      121/65536         484/262144   ( 0.2%) 
+HDR ambient table      121/65536         484/262144   ( 0.2%) 
+LDR leaf ambient       419/65536       11732/1835008  ( 0.6%) 
+HDR leaf ambient       121/65536        3388/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 526
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+192 faces
+216674 square feet [31201112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+192 patches before subdivision
+5136 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29574, max 154
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5573, 3687, 3028)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(129, 51, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0049 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               313/65536        3756/786432   ( 0.5%) 
+nodes                  119/65536        3808/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  192/65536       10752/3670016  ( 0.3%) 
+hdr faces              192/65536       10752/3670016  ( 0.3%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 121/65536        3872/2097152  ( 0.2%) 
+leaffaces              206/65536         412/131072   ( 0.3%) 
+leafbrushes             87/65536         174/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              986/512000       3944/2048000  ( 0.2%) 
+edges                  520/256000       2080/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             25/32768         250/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           324/65536         648/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      155472/0        ( 0.0%) 
+HDR lightdata         [variable]      155472/0        ( 0.0%) 
+visdata               [variable]         693/16777216 ( 0.0%) 
+entdata               [variable]       12182/393216   ( 3.1%) 
+LDR ambient table      121/65536         484/262144   ( 0.2%) 
+HDR ambient table      121/65536         484/262144   ( 0.2%) 
+LDR leaf ambient       419/65536       11732/1835008  ( 0.6%) 
+HDR leaf ambient       419/65536       11732/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 526
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  52 portalclusters
+ 104 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2370
+Average clusters visible: 45
+Building PAS...
+Average clusters audible: 51
+visdatasize:1152  compressed from 832
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+246 faces
+314667 square feet [45312184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+246 patches before subdivision
+7562 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47264, max 182
+transfer lists:   0.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7677, 5226, 4062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196, 83, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               379/65536        4548/786432   ( 0.6%) 
+nodes                  162/65536        5184/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  246/65536       13776/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 164/65536        5248/2097152  ( 0.3%) 
+leaffaces              265/65536         530/131072   ( 0.4%) 
+leafbrushes            118/65536         236/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  640/256000       2560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           360/65536         720/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      226452/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1152/16777216 ( 0.0%) 
+entdata               [variable]       13386/393216   ( 3.4%) 
+LDR ambient table      164/65536         656/262144   ( 0.3%) 
+HDR ambient table      164/65536         656/262144   ( 0.3%) 
+LDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+HDR leaf ambient       164/65536        4592/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 658
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+246 faces
+314667 square feet [45312184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+246 patches before subdivision
+7562 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47264, max 182
+transfer lists:   0.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7677, 5226, 4062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196, 83, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               379/65536        4548/786432   ( 0.6%) 
+nodes                  162/65536        5184/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  246/65536       13776/3670016  ( 0.4%) 
+hdr faces              246/65536       13776/3670016  ( 0.4%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 164/65536        5248/2097152  ( 0.3%) 
+leaffaces              265/65536         530/131072   ( 0.4%) 
+leafbrushes            118/65536         236/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  640/256000       2560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           360/65536         720/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      226452/0        ( 0.0%) 
+HDR lightdata         [variable]      226452/0        ( 0.0%) 
+visdata               [variable]        1152/16777216 ( 0.0%) 
+entdata               [variable]       13386/393216   ( 3.4%) 
+LDR ambient table      164/65536         656/262144   ( 0.3%) 
+HDR ambient table      164/65536         656/262144   ( 0.3%) 
+LDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+HDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 658
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  52 portalclusters
+ 104 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2370
+Average clusters visible: 45
+Building PAS...
+Average clusters audible: 51
+visdatasize:1152  compressed from 832
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+246 faces
+314667 square feet [45312184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+246 patches before subdivision
+7562 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47264, max 182
+transfer lists:   0.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7677, 5226, 4062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196, 83, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               379/65536        4548/786432   ( 0.6%) 
+nodes                  162/65536        5184/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  246/65536       13776/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 164/65536        5248/2097152  ( 0.3%) 
+leaffaces              265/65536         530/131072   ( 0.4%) 
+leafbrushes            118/65536         236/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  640/256000       2560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           360/65536         720/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      226452/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1152/16777216 ( 0.0%) 
+entdata               [variable]       13386/393216   ( 3.4%) 
+LDR ambient table      164/65536         656/262144   ( 0.3%) 
+HDR ambient table      164/65536         656/262144   ( 0.3%) 
+LDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+HDR leaf ambient       164/65536        4592/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 658
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+246 faces
+314667 square feet [45312184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+246 patches before subdivision
+7562 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47264, max 182
+transfer lists:   0.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7677, 5226, 4062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196, 83, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0077 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               379/65536        4548/786432   ( 0.6%) 
+nodes                  162/65536        5184/2097152  ( 0.2%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  246/65536       13776/3670016  ( 0.4%) 
+hdr faces              246/65536       13776/3670016  ( 0.4%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 164/65536        5248/2097152  ( 0.3%) 
+leaffaces              265/65536         530/131072   ( 0.4%) 
+leafbrushes            118/65536         236/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  640/256000       2560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           360/65536         720/131072   ( 0.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      226452/0        ( 0.0%) 
+HDR lightdata         [variable]      226452/0        ( 0.0%) 
+visdata               [variable]        1152/16777216 ( 0.0%) 
+entdata               [variable]       13386/393216   ( 3.4%) 
+LDR ambient table      164/65536         656/262144   ( 0.3%) 
+HDR ambient table      164/65536         656/262144   ( 0.3%) 
+LDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+HDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 658
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_case (40.00 1067.07 754.23) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+LoadPortals: couldn't read c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+575 faces
+825396 square feet [118857040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               750/65536        9000/786432   ( 1.1%) 
+nodes                  407/65536       13024/2097152  ( 0.6%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  575/65536       32200/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                 409/65536       13088/2097152  ( 0.6%) 
+leaffaces              604/65536        1208/131072   ( 0.9%) 
+leafbrushes            203/65536         406/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2754/512000      11016/2048000  ( 0.5%) 
+edges                 1397/256000       5588/1024000  ( 0.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           495/65536         990/131072   ( 0.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      375156/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13669/393216   ( 3.5%) 
+LDR ambient table      409/65536        1636/262144   ( 0.6%) 
+HDR ambient table      409/65536        1636/262144   ( 0.6%) 
+LDR leaf ambient      2510/65536       70280/1835008  ( 3.8%) 
+HDR leaf ambient       409/65536       11452/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1416
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+No vis information, direct lighting only.
+575 faces
+825396 square feet [118857040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               750/65536        9000/786432   ( 1.1%) 
+nodes                  407/65536       13024/2097152  ( 0.6%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  575/65536       32200/3670016  ( 0.9%) 
+hdr faces              575/65536       32200/3670016  ( 0.9%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                 409/65536       13088/2097152  ( 0.6%) 
+leaffaces              604/65536        1208/131072   ( 0.9%) 
+leafbrushes            203/65536         406/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2754/512000      11016/2048000  ( 0.5%) 
+edges                 1397/256000       5588/1024000  ( 0.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           495/65536         990/131072   ( 0.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      375156/0        ( 0.0%) 
+HDR lightdata         [variable]      375156/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13669/393216   ( 3.5%) 
+LDR ambient table      409/65536        1636/262144   ( 0.6%) 
+HDR ambient table      409/65536        1636/262144   ( 0.6%) 
+LDR leaf ambient      2510/65536       70280/1835008  ( 3.8%) 
+HDR leaf ambient      2510/65536       70280/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1416
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  64 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3292
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 63
+visdatasize:1546  compressed from 1024
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0106 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       13669/393216   ( 3.5%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       219/65536        6132/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0109 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces              348/65536       19488/3670016  ( 0.5%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]      318960/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       13669/393216   ( 3.5%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  64 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3292
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 63
+visdatasize:1546  compressed from 1024
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0070 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14231/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       219/65536        6132/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0106 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces              348/65536       19488/3670016  ( 0.5%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]      318960/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14231/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  64 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3292
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 63
+visdatasize:1546  compressed from 1024
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0105 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14240/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       219/65536        6132/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0107 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces              348/65536       19488/3670016  ( 0.5%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]      318960/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14240/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\trickiert\team fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.vmf
+Patching WVT material: maps/db_waterfalls/egypt/sand_floor_blend_03_wvt_patch
+Patching WVT material: maps/db_waterfalls/egypt/sand_grass_blend_02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 10
+Reduced 7 texdatas to 5 (248 bytes to 196)
+Writing C:\Users\Owner\Documents\Dropbox\Public\Trickiert's Personal Stuff\Game Related\Mapping\Source\TF2\Dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+reading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.prt
+  64 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3292
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 63
+visdatasize:1546  compressed from 1024
+writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0106 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14260/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       219/65536        6132/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+348 faces
+387347 square feet [55778080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+348 patches before subdivision
+9872 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61040, max 227
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8625, 5804, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(221, 73, 54)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0107 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              62/65536         496/524288   ( 0.1%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               491/65536        5892/786432   ( 0.7%) 
+nodes                  217/65536        6944/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  348/65536       19488/3670016  ( 0.5%) 
+hdr faces              348/65536       19488/3670016  ( 0.5%) 
+origfaces               19/65536        1064/3670016  ( 0.0%) 
+leaves                 219/65536        7008/2097152  ( 0.3%) 
+leaffaces              367/65536         734/131072   ( 0.6%) 
+leafbrushes            167/65536         334/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1654/512000       6616/2048000  ( 0.3%) 
+edges                  854/256000       3416/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           384/65536         768/131072   ( 0.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      318960/0        ( 0.0%) 
+HDR lightdata         [variable]      318960/0        ( 0.0%) 
+visdata               [variable]        1546/16777216 ( 0.0%) 
+entdata               [variable]       14260/393216   ( 3.6%) 
+LDR ambient table      219/65536         876/262144   ( 0.3%) 
+HDR ambient table      219/65536         876/262144   ( 0.3%) 
+LDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+HDR leaf ambient       691/65536       19348/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211931/0        ( 0.0%) 
+physics               [variable]        4122/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 882
+Writing c:\users\owner\documents\dropbox\public\trickiert's personal stuff\game related\mapping\source\tf2\dodgeball\db_waterfalls.bsp
+4 seconds elapsed

@@ -1,0 +1,285 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "5454"
+	"mapversion" "269"
+	"formatversion" "100"
+	"prefab" "1"
+}
+world
+{
+	"id" "37065"
+	"mapversion" "269"
+	"classname" "worldspawn"
+	"skyname" "sky_black_nofog"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
+	"maxblobcount" "250"
+	solid
+	{
+		"id" "37066"
+		side
+		{
+			"id" "7478"
+			"plane" "(1820.11 -1662 408.179) (1820.11 -1662 392.179) (1820.11 -1534 392.179)"
+			"material" "WOOD/UNDERGROUND_WOODTRIM001A"
+			"uaxis" "[0 0 1 -160.712] 0.25"
+			"vaxis" "[0 1 0 -392.012] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7477"
+			"plane" "(1948.11 -1534 408.179) (1948.11 -1534 392.179) (1948.11 -1662 392.179)"
+			"material" "WOOD/UNDERGROUND_WOODTRIM001A"
+			"uaxis" "[0 0 1 -160.712] 0.25"
+			"vaxis" "[0 1 0 -392.012] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7476"
+			"plane" "(1948.11 -1662 408.179) (1948.11 -1662 392.179) (1820.11 -1662 392.179)"
+			"material" "METAL/UNDERGROUND_WALL_METAL004B"
+			"uaxis" "[1 0 0 -368.448] 0.25"
+			"vaxis" "[0 0 -1 32.712] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7475"
+			"plane" "(1820.11 -1534 408.179) (1820.11 -1534 392.179) (1948.11 -1534 392.179)"
+			"material" "WOOD/UNDERGROUND_WOODTRIM001A"
+			"uaxis" "[0 0 1 -160.712] 0.25"
+			"vaxis" "[-1 0 0 496.448] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7474"
+			"plane" "(1820.11 -1534 392.178) (1820.11 -1662 392.178) (1948.11 -1662 392.178)"
+			"material" "METAL/UNDERGROUND_WALL_METAL004B"
+			"uaxis" "[1 0 0 -368.448] 0.25"
+			"vaxis" "[0 -1 0 8.01239] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7473"
+			"plane" "(1820.11 -1662 408.178) (1820.11 -1534 408.178) (1948.11 -1534 408.178)"
+			"material" "WOOD/UNDERGROUND_WOODWALL003A"
+			"uaxis" "[1 0 0 -112.448] 0.25"
+			"vaxis" "[0 -1 0 8.01239] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 245 146"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "37071"
+		side
+		{
+			"id" "6"
+			"plane" "(1804 -1678 976.215) (1804 -1678 876) (1804 -1517.99 876)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[0 -1 0 8.0127] 0.25"
+			"vaxis" "[0 0 -1 32.856] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5"
+			"plane" "(1964 -1517.99 976.215) (1964 -1517.99 876) (1964 -1678 876)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[0 1 0 -8.0127] 0.25"
+			"vaxis" "[0 0 -1 32.856] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4"
+			"plane" "(1964 -1677.99 976.215) (1964 -1677.99 876) (1804 -1677.99 876)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[1 0 0 16] 0.25"
+			"vaxis" "[0 0 -1 32.856] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3"
+			"plane" "(1804 -1517.99 976.215) (1804 -1517.99 876) (1964 -1517.99 876)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[-1 0 0 -16] 0.25"
+			"vaxis" "[0 0 -1 32.856] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2"
+			"plane" "(1804 -1517.99 876) (1804 -1678 876) (1964 -1677.99 876)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[0 1 0 -6.375] 0.25"
+			"vaxis" "[1 0 0 16.1533] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1"
+			"plane" "(1804 -1677.99 976.214) (1804 -1517.99 976.214) (1964 -1517.99 976.214)"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"uaxis" "[0 1 0 -6.375] 0.25"
+			"vaxis" "[1 0 0 16.1533] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 189 102"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+entity
+{
+	"id" "37067"
+	"classname" "prop_button"
+	"angles" "0 180 0"
+	"Delay" "3"
+	"IsTimer" "0"
+	"skin" "0"
+	connections
+	{
+		"OnPressed" "relay_paint_start_blueTrigger0-1"
+		"OnPressed" "relay_paint_stop_blueTrigger1.5-1"
+	}
+	"origin" "1734 -1551.79 392.214"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 2000]"
+	}
+}
+entity
+{
+	"id" "37069"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"spawnflags" "0"
+	"targetname" "target_paint_lighting_blue"
+	"origin" "1884.11 -1602 450.832"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 7000]"
+	}
+}
+entity
+{
+	"id" "37072"
+	"classname" "info_paint_sprayer"
+	"angles" "90 180 0"
+	"blob_spread_angle" "0"
+	"blob_spread_radius" "32"
+	"blob_streak_percentage" "20"
+	"blobs_per_second" "35"
+	"end_radius_max" "0.7"
+	"end_radius_min" "0.5"
+	"light_position_name" "target_paint_lighting_blue"
+	"max_speed" "1250"
+	"max_streak_speed_dampen" "1000"
+	"max_streak_time" "0.5"
+	"maxblobcount" "50"
+	"min_speed" "720"
+	"min_streak_speed_dampen" "500"
+	"min_streak_time" "0.2"
+	"PaintType" "0"
+	"radius_grow_time_max" "1.0"
+	"radius_grow_time_min" "0.5"
+	"start_radius_max" "0.7"
+	"start_radius_min" "0.5"
+	"targetname" "paint_sprayer_blue"
+	"origin" "1884 -1598 908.214"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -768]"
+	}
+}
+entity
+{
+	"id" "37074"
+	"classname" "logic_relay"
+	"angles" "0 -90 0"
+	"spawnflags" "0"
+	"targetname" "relay_paint_stop_blue"
+	connections
+	{
+		"OnTrigger" "paint_sprayer_blueStop0-1"
+		"OnTrigger" "blue_paint_dropperSetAnimationitem_dropper_close2-1"
+	}
+	"origin" "1900 -1598 864.214"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 2500]"
+	}
+}
+entity
+{
+	"id" "37076"
+	"classname" "logic_relay"
+	"angles" "0 -90 0"
+	"spawnflags" "0"
+	"targetname" "relay_paint_start_blue"
+	connections
+	{
+		"OnTrigger" "paint_sprayer_blueStart0-1"
+		"OnTrigger" "blue_paint_dropperSetAnimationitem_dropper_open0-1"
+	}
+	"origin" "1868 -1598 864.214"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
